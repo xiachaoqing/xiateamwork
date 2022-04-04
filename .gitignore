@@ -1,0 +1,3 @@
+/www/data/upload/*
+#不上传数据库配置
+/config/my.php
