@@ -97,7 +97,7 @@ $lang->mail->sendCloudSuccess = '操作成功';
 $lang->mail->closeSendCloud   = '关闭SendCloud';
 $lang->mail->addressWhiteList = '为防止邮件被屏蔽，请在邮件服务器里面将发信邮箱设为白名单';
 $lang->mail->ztCloudNotice    = <<<EOD
-<p>夏小石云发信是由夏小石开发团队和<a href='http://sendcloud.sohu.com/' target='_blank'>SendCloud</a>联合推出的一个免费发信服务。</p>
+<p>夏小石云发信是由夏小石团队和<a href='http://sendcloud.sohu.com/' target='_blank'>SendCloud</a>联合推出的一个免费发信服务。</p>
 <p>您只需要在夏小石官网注册帐号，并完成手机和邮箱的验证，即可享受免费的发信服务。</p>
 <p style='color:red'>您的认证信息我们会帮您提交到SendCloud的团队进行认证，以获得每天200封邮件的免费额度。</p>
 <ul>

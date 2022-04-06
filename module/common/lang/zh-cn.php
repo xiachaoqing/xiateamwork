@@ -18,7 +18,7 @@ $lang->percent   = '%';
 $lang->dash      = '-';
 
 $lang->zentaoPMS      = '夏小石';
-$lang->welcome        = "夏小石开发工作管理系统";
+$lang->welcome        = "夏小石工作管理系统";
 $lang->logout         = '退出';
 $lang->login          = '登录';
 $lang->help           = '帮助';
