@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 /**
- * 豆包系统命令行访问入口。使用方法：http://www.zentao.net/help-read-78899.html
+ * 夏小石系统命令行访问入口。使用方法：http://www.zentao.net/help-read-78899.html
  * The cli router file of zentaopms.
  *
  * @copyright   Copyright 2009-2013 QingDao Nature Easy Soft Network Technology Co,LTD (www.cnezsoft.com)

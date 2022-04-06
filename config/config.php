@@ -119,7 +119,7 @@ if(file_exists($dbConfig)) include $dbConfig;
 $myConfig = dirname(__FILE__) . DIRECTORY_SEPARATOR . 'my.php';
 if(file_exists($myConfig)) include $myConfig;
 
-/* 豆包配置文件。zentaopms settings. */
+/* 夏小石配置文件。zentaopms settings. */
 $zentaopmsConfig = dirname(__FILE__) . DIRECTORY_SEPARATOR . 'zentaopms.php';
 if(file_exists($zentaopmsConfig)) include $zentaopmsConfig;
 

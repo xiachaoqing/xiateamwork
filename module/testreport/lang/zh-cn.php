@@ -58,8 +58,8 @@ $lang->testreport->bugCreateByCaseRate = '用例发现Bug率 (用例创建的Bug
 $lang->testreport->caseSummary    = '共有<strong>%s</strong>个用例，共执行<strong>%s</strong>个用例，产生了<strong>%s</strong>个结果，失败的用例有<strong>%s</strong>个。';
 $lang->testreport->buildSummary   = '共测试了<strong>%s</strong>个版本。';
 $lang->testreport->confirmDelete  = '是否删除该报告？';
-$lang->testreport->moreNotice     = '更多功能可以参考豆包扩展机制进行扩展，也可以联系我们进行定制。';
-$lang->testreport->exportNotice   = "由<a href='https://www.zentao.net' target='_blank' style='color:grey'>豆包项目管理软件</a>导出";
+$lang->testreport->moreNotice     = '更多功能可以参考夏小石扩展机制进行扩展，也可以联系我们进行定制。';
+$lang->testreport->exportNotice   = "由<a href='https://www.zentao.net' target='_blank' style='color:grey'>夏小石项目管理软件</a>导出";
 $lang->testreport->noReport       = "报表还没有生成，请稍候查看。";
 $lang->testreport->foundBugTip    = "影响版本在测试轮次内，并且创建时间在测试时间范围内产生的Bug数。";
 $lang->testreport->legacyBugTip   = "Bug状态是激活，或Bug的解决时间在测试结束时间之后。";

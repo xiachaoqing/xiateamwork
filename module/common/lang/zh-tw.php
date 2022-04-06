@@ -19,8 +19,8 @@ $lang->ellipsis  = '…';
 $lang->percent   = '%';
 $lang->dash      = '-';
 
-$lang->zentaoPMS      = '豆包';
-$lang->welcome        = "豆包開發工作管理系統";
+$lang->zentaoPMS      = '夏小石';
+$lang->welcome        = "夏小石開發工作管理系統";
 $lang->logout         = '退出';
 $lang->login          = '登錄';
 $lang->help           = '幫助';

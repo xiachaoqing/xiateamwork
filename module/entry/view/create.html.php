@@ -2,7 +2,7 @@
 /**
  * The create view file of entry module of ZenTaoPMS.
  *
- * @copyright   Copyright 豆包网
+ * @copyright   Copyright 夏小石
  * @license     ZPL (http://zpl.pub/page/zplv12.html)
  * @author      Gang Liu <liugang@cnezsoft.com>
  * @package     entry

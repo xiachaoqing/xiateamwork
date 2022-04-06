@@ -17,7 +17,7 @@
   <div class='main-header'>
     <h2>
       <?php
-       echo '欢迎来到豆包网';
+       echo '欢迎来到夏小石';
       // printf($lang->admin->info->version, $config->version);
       // if($bind) echo sprintf($lang->admin->info->account, '<span class="red">' . $account . '</span>');
       // echo $lang->admin->info->links;

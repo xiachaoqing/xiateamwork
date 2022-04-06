@@ -26,17 +26,17 @@ $lang->admin->days    = '日志保存天数';
 $lang->admin->info = new stdclass();
 $lang->admin->info->version = '当前系统的版本是%s，';
 $lang->admin->info->links   = '您可以访问以下链接：';
-$lang->admin->info->account = "您的豆包社区账户为%s。";
+$lang->admin->info->account = "您的夏小石社区账户为%s。";
 $lang->admin->info->log     = '超出存天数的日志会被删除，需要开启计划任务。';
 
 $lang->admin->notice = new stdclass();
-$lang->admin->notice->register = "友情提示：您还未在豆包社区(www.zentao.net)登记，%s进行登记，以及时获得豆包最新信息。";
+$lang->admin->notice->register = "友情提示：您还未在夏小石社区(www.zentao.net)登记，%s进行登记，以及时获得夏小石最新信息。";
 $lang->admin->notice->ignore   = "不再提示";
 $lang->admin->notice->int      = "『%s』应当是正整数。";
 
 $lang->admin->register = new stdclass();
 $lang->admin->register->common     = '注册新帐号绑定';
-$lang->admin->register->caption    = '豆包社区登记';
+$lang->admin->register->caption    = '夏小石社区登记';
 $lang->admin->register->click      = '点击此处';
 $lang->admin->register->lblAccount = '请设置您的用户名，英文字母和数字的组合，三位以上。';
 $lang->admin->register->lblPasswd  = '请设置您的密码。数字和字母的组合，六位以上。';

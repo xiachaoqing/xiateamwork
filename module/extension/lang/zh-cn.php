@@ -35,7 +35,7 @@ $lang->extension->dirs        = '安装目录';
 $lang->extension->files       = '安装文件';
 $lang->extension->status      = '状态';
 $lang->extension->version     = '版本';
-$lang->extension->latest      = '<small>最新版本<strong><a href="%s" target="_blank" class="extension">%s</a></strong>，兼容豆包<a href="https://api.zentao.net/goto.php?item=latest" target="_blank" class="alert-link"><strong>%s</strong></a></small>';
+$lang->extension->latest      = '<small>最新版本<strong><a href="%s" target="_blank" class="extension">%s</a></strong>，兼容夏小石<a href="https://api.zentao.net/goto.php?item=latest" target="_blank" class="alert-link"><strong>%s</strong></a></small>';
 $lang->extension->author      = '作者';
 $lang->extension->license     = '授权';
 $lang->extension->site        = '官网';
@@ -81,7 +81,7 @@ $lang->extension->viewAvailable            = '查看可安装插件';
 $lang->extension->viewDeactivated          = '查看已禁用插件';
 $lang->extension->backDBFile               = '插件相关数据已经备份到 %s 文件中！';
 $lang->extension->noticeOkFile             = '<h5>为了安全起见，系统需要确认您的管理员身份</h5>
-    <h5>请登录豆包所在的服务器，创建%s文件。</h5>
+    <h5>请登录夏小石所在的服务器，创建%s文件。</h5>
     <p>注意：</p>
     <ol>
     <li>文件内容为空。</li>
@@ -102,7 +102,7 @@ $lang->extension->errorDownloadPathNotWritable = '插件下载存储路径<stron
 $lang->extension->errorPackageFileExists       = '下载路径已经有一个名为的<strong>%s</strong>附件。<h5>重新%s，<a href="%s" class="alert-link">请点击此链接</a></h5>';
 $lang->extension->errorDownloadFailed          = '下载失败，请重新下载。如果多次重试还不行，请尝试手工下载，然后通过上传功能上传。';
 $lang->extension->errorMd5Checking             = '下载文件不完整，请重新下载。如果多次重试还不行，请尝试手工下载，然后通过上传功能上传。';
-$lang->extension->errorCheckIncompatible       = '该插件与豆包版本不兼容，%s后可能无法使用。<h5>您可以选择 <a href="%s" class="btn btn-sm">强制%s</a> 或者 <a href="#" onclick=parent.location.href="%s" class="btn btn-sm">取消</a></h5>';
+$lang->extension->errorCheckIncompatible       = '该插件与夏小石版本不兼容，%s后可能无法使用。<h5>您可以选择 <a href="%s" class="btn btn-sm">强制%s</a> 或者 <a href="#" onclick=parent.location.href="%s" class="btn btn-sm">取消</a></h5>';
 $lang->extension->errorFileConflicted          = '有以下文件冲突：<br />%s <h5>您可以选择 <a href="%s" class="btn btn-sm">覆盖</a> 或者 <a href="#" onclick=parent.location.href="%s" class="btn btn-sm">取消</a></h5>';
 $lang->extension->errorPackageNotFound         = '包文件 <strong>%s </strong>没有找到，可能是因为自动下载失败。您可以尝试再次下载。';
 $lang->extension->errorTargetPathNotWritable   = '目标路径 <strong>%s </strong>不可写。';
@@ -110,5 +110,5 @@ $lang->extension->errorTargetPathNotExists     = '目标路径 <strong>%s </stro
 $lang->extension->errorInstallDB               = '执行数据库语句失败。错误信息如下：%s';
 $lang->extension->errorConflicts               = '与插件“%s”冲突！';
 $lang->extension->errorDepends                 = '以下依赖插件没有安装或版本不正确：<br /><br /> %s';
-$lang->extension->errorIncompatible            = '该插件与您的豆包版本不兼容';
+$lang->extension->errorIncompatible            = '该插件与您的夏小石版本不兼容';
 $lang->extension->errorUninstallDepends        = '插件“%s”依赖该插件，不能卸载';

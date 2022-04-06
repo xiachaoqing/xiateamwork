@@ -17,16 +17,16 @@ $lang->ellipsis  = '…';
 $lang->percent   = '%';
 $lang->dash      = '-';
 
-$lang->zentaoPMS      = '豆包';
-$lang->welcome        = "豆包开发工作管理系统";
+$lang->zentaoPMS      = '夏小石';
+$lang->welcome        = "夏小石开发工作管理系统";
 $lang->logout         = '退出';
 $lang->login          = '登录';
 $lang->help           = '帮助';
-$lang->aboutZenTao    = '关于豆包网';
+$lang->aboutZenTao    = '关于夏小石';
 $lang->profile        = '个人档案';
 $lang->changePassword = '更改密码';
 $lang->runInfo        = "<div class='row'><div class='u-1 a-center' id='debugbar'>时间: %s 毫秒, 内存: %s KB, 查询: %s.  </div></div>";
-$lang->agreement      = "已阅读并同意<a href='http://zpl.pub/page/zplv12.html' target='_blank'>《Z PUBLIC LICENSE授权协议1.2》</a>。<span class='text-danger'>未经许可，不得去除、隐藏或遮掩豆包网软件的任何标志及链接。</span>";
+$lang->agreement      = "已阅读并同意<a href='http://zpl.pub/page/zplv12.html' target='_blank'>《Z PUBLIC LICENSE授权协议1.2》</a>。<span class='text-danger'>未经许可，不得去除、隐藏或遮掩夏小石软件的任何标志及链接。</span>";
 $lang->designedByAIUX = "<a href='http://aiuxstudio.com/' class='link-aiux' target='_blank'>Designed by <strong>艾体验</strong></a>";
 
 $lang->reset        = '重填';
@@ -160,7 +160,7 @@ $lang->lang = 'Language';
 
 /* 风格列表。*/
 $lang->theme                = '主题';
-$lang->themes['default']    = '豆包网蓝（默认）';
+$lang->themes['default']    = '夏小石蓝（默认）';
 $lang->themes['green']      = '叶兰绿';
 $lang->themes['red']        = '赤诚红';
 $lang->themes['purple']     = '玉烟紫';

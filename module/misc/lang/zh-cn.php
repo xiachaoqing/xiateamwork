@@ -14,7 +14,7 @@ $lang->misc->enApi  = 'http://api.zentao.pm';
 
 $lang->misc->zentao = new stdclass();
 $lang->misc->zentao->version           = '版本%s';
-$lang->misc->zentao->labels['about']   = '关于豆包';
+$lang->misc->zentao->labels['about']   = '关于夏小石';
 $lang->misc->zentao->labels['support'] = '技术支持';
 $lang->misc->zentao->labels['cowin']   = '帮助我们';
 $lang->misc->zentao->labels['service'] = '服务列表';
@@ -44,9 +44,9 @@ $lang->misc->zentao->cowin['feedback']     = "反馈需求";
 $lang->misc->zentao->cowin['recommend']    = "推荐给朋友";
 
 
-$lang->misc->zentao->service['zentaotrain']= '豆包使用培训';
-$lang->misc->zentao->service['idc']        = '豆包在线托管';
-$lang->misc->zentao->service['custom']     = '豆包定制开发';
+$lang->misc->zentao->service['zentaotrain']= '夏小石使用培训';
+$lang->misc->zentao->service['idc']        = '夏小石在线托管';
+$lang->misc->zentao->service['custom']     = '夏小石定制开发';
 $lang->misc->zentao->service['servicemore']= '更多服务...';
 
 $lang->misc->mobile      = "手机访问";
@@ -59,10 +59,10 @@ $lang->misc->repairFail  = "修复失败，请到该数据库的数据目录下�
 $lang->misc->connectFail = "连接数据库失败，错误：%s，<br/> 请检查mysql错误日志，排查错误。";
 $lang->misc->tableName   = "表名";
 $lang->misc->tableStatus = "状态";
-$lang->misc->novice      = "您可能初次使用豆包，是否进入新手模式？";
+$lang->misc->novice      = "您可能初次使用夏小石，是否进入新手模式？";
 
 $lang->misc->noticeRepair = "<h5>普通用户请联系管理员进行修复</h5>
-    <h5>管理员请登录豆包所在的服务器，创建<span>%s</span>文件。</h5>
+    <h5>管理员请登录夏小石所在的服务器，创建<span>%s</span>文件。</h5>
     <p>注意：</p>
     <ol>
     <li>文件内容为空。</li>
@@ -99,11 +99,11 @@ $lang->misc->releaseDate['6.3.stable']  = '2014-11-07';
 
 $lang->misc->feature->all['11.3.stable'][] = array('title'=>'完善细节，修复Bug', 'desc' => '<p>计划添加子计划功能</p><p>优化chosen交互</p><p>添加时区设置</p><p>优化文档库和文档</p>');
 
-$lang->misc->feature->all['11.2.stable'][] = array('title'=>'完善细节，修复Bug', 'desc' => '<p>增加升级日志和升级后数据库检查的功能</p><p>修复豆包集成客户端和其他若干bug，完善细节</p>');
+$lang->misc->feature->all['11.2.stable'][] = array('title'=>'完善细节，修复Bug', 'desc' => '<p>增加升级日志和升级后数据库检查的功能</p><p>修复夏小石集成客户端和其他若干bug，完善细节</p>');
 
 $lang->misc->feature->all['11.1.stable'][] = array('title'=>'主要修复Bug。');
 
-$lang->misc->feature->all['11.0.stable'][] = array('title'=>'豆包集成喧喧');
+$lang->misc->feature->all['11.0.stable'][] = array('title'=>'夏小石集成喧喧');
 
 $lang->misc->feature->all['10.6.stable'][] = array('title'=>'调整备份机制', 'desc' => '<p>增加备份设置，备份更加灵活</p><p>显示备份进度</p><p>可以更改备份目录</p>');
 $lang->misc->feature->all['10.6.stable'][] = array('title'=>'优化和调整菜单', 'desc' => '<p>调整后台菜单</p><p>调整我的地盘和项目的二级菜单</p>');
@@ -128,7 +128,7 @@ $lang->misc->feature->all['9.8.stable'][] = array('title'=>'项目可以选择�
 $lang->misc->feature->all['9.7.stable'][] = array('title'=>'调整国际版，增加英文Demo数据。', 'desc' => '');
 
 $lang->misc->feature->all['9.6.stable'][] = array('title'=>'新增了webhook功能', 'desc' => '实现与倍冾、钉钉的消息通知接口');
-$lang->misc->feature->all['9.6.stable'][] = array('title'=>'新增豆包操作获取积分的功能', 'desc' => '');
+$lang->misc->feature->all['9.6.stable'][] = array('title'=>'新增夏小石操作获取积分的功能', 'desc' => '');
 $lang->misc->feature->all['9.6.stable'][] = array('title'=>'项目任务新增了多人任务和子任务功能', 'desc' => '');
 $lang->misc->feature->all['9.6.stable'][] = array('title'=>'产品视图新增了产品线功能', 'desc' => '');
 
@@ -139,7 +139,7 @@ $lang->misc->feature->all['9.3.beta'][] = array('title'=>'升级框架，增强�
 $lang->misc->feature->all['9.1.stable'][] = array('title'=>'完善测试视图', 'desc' => '<p>增加测试套件、公共测试库和测试总结功能</p>');
 $lang->misc->feature->all['9.1.stable'][] = array('title'=>'支持测试步骤分组', 'desc' => '');
 
-$lang->misc->feature->all['9.0.beta'][] = array('title'=>'增加豆包云发信功能', 'desc' => '<p>豆包云发信是豆包联合SendCloud推出的一项免费发信服务，只有用户绑定豆包，并通过验证即可使用。</p>');
+$lang->misc->feature->all['9.0.beta'][] = array('title'=>'增加夏小石云发信功能', 'desc' => '<p>夏小石云发信是夏小石联合SendCloud推出的一项免费发信服务，只有用户绑定夏小石，并通过验证即可使用。</p>');
 $lang->misc->feature->all['9.0.beta'][] = array('title'=>'优化富文本编辑器和markdown编辑器', 'desc' => '');
 
 $lang->misc->feature->all['8.3.stable'][] = array('title'=>'调整文档功能', 'desc' => '<p>增加文档模块首页，重新组织文档库结构，增加权限</p><p>多种文件浏览方式，文档支持Markdown，增加文档权限管理，增加文件版本管理。</p>');
@@ -150,7 +150,7 @@ $lang->misc->feature->all['8.2.stable'][] = array('title'=>'批量添加、编�
 $lang->misc->feature->all['8.2.stable'][] = array('title'=>'添加需求、任务、Bug、用例自定义', 'desc' => '<p>可以在添加需求、任务、Bug、用例页面，自定义部分字段是否显示。</p>');
 $lang->misc->feature->all['8.2.stable'][] = array('title'=>'导出自定义', 'desc' => '<p>在导出需求、任务、Bug、用例的时候，用户可以自定义导出的字段，也可以保存模板方便每次导出。</p>');
 $lang->misc->feature->all['8.2.stable'][] = array('title'=>'需求、任务、Bug、用例组合检索功能', 'desc' => '<p>在需求、任务、Bug、用例列表页面，可以实现模块和标签的组合检索。</p>');
-$lang->misc->feature->all['8.2.stable'][] = array('title'=>'增加新手教程', 'desc' => '<p>增加新手教程，方便新用户了解豆包使用。</p>');
+$lang->misc->feature->all['8.2.stable'][] = array('title'=>'增加新手教程', 'desc' => '<p>增加新手教程，方便新用户了解夏小石使用。</p>');
 
 $lang->misc->feature->all['7.4.beta'][] = array('title'=>'产品实现分支功能', 'desc' => '<p>产品增加分支/平台类型，相应的需求、计划、Bug、用例、模块等都增加分支。</p>');
 $lang->misc->feature->all['7.4.beta'][] = array('title'=>'调整发布模块', 'desc' => '<p>发布增加停止维护操作，当发布停止维护时，创建Bug将不显示这个发布。</p><p>发布中遗留的bug改为手工关联。</p>');

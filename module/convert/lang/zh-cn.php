@@ -11,7 +11,7 @@ $lang->convert->index   = '首页';
 
 $lang->convert->start   = '开始转换';
 $lang->convert->desc    = <<<EOT
-<p>欢迎使用系统转换向导，本程序会帮助您将其他系统的数据转换到豆包网项目管理系统中。</p>
+<p>欢迎使用系统转换向导，本程序会帮助您将其他系统的数据转换到夏小石项目管理系统中。</p>
 <strong>转换存在一定的风险，转换之前，我们强烈建议您备份数据库及相应的数据文件，并保证转换的时候，没有其他人进行操作。</strong>
 EOT;
 
@@ -109,5 +109,5 @@ $lang->convert->priType->task     = '优先级类型转换(Task状态)';
 
 $lang->convert->issue = new stdclass();
 $lang->convert->issue->redmine = 'Redmine';
-$lang->convert->issue->zentao  = '豆包网';
+$lang->convert->issue->zentao  = '夏小石';
 $lang->convert->issue->goto    = '转换为';

@@ -25,7 +25,7 @@ $lang->action->editComment = '修改备注';
 $lang->action->create      = '添加备注';
 $lang->action->comment     = '备注';
 
-$lang->action->trashTips      = '提示：为了保证系统的完整性，豆包系统的删除都是标记删除。';
+$lang->action->trashTips      = '提示：为了保证系统的完整性，夏小石系统的删除都是标记删除。';
 $lang->action->textDiff       = '文本格式';
 $lang->action->original       = '原始格式';
 $lang->action->confirmHideAll = '您确定要全部隐藏这些记录吗？';

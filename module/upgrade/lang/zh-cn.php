@@ -10,8 +10,8 @@ $lang->upgrade->common  = '升级';
 $lang->upgrade->result  = '升级结果';
 $lang->upgrade->fail    = '升级失败';
 $lang->upgrade->success = '升级成功';
-$lang->upgrade->tohome  = '访问豆包';
-$lang->upgrade->license = '豆包项目管理软件已更换授权协议至 Z PUBLIC LICENSE(ZPL) 1.2';
+$lang->upgrade->tohome  = '访问夏小石';
+$lang->upgrade->license = '夏小石项目管理软件已更换授权协议至 Z PUBLIC LICENSE(ZPL) 1.2';
 $lang->upgrade->warnning= '警告';
 $lang->upgrade->checkExtension  = '检查插件';
 $lang->upgrade->consistency     = '一致性检查';
@@ -21,7 +21,7 @@ $lang->upgrade->warnningContent = <<<EOT
 1. 可以通过phpMyAdmin进行备份。
 2. 使用mysql命令行的工具。
    $> mysqldump -u <span class='text-danger'>username</span> -p <span class='text-danger'>dbname</span> > <span class='text-danger'>filename</span> 
-   要将上面红色的部分分别替换成对应的用户名和豆包系统的数据库名。
+   要将上面红色的部分分别替换成对应的用户名和夏小石系统的数据库名。
    比如： mysqldump -u root -p zentao >zentao.bak
 </pre>
 EOT;

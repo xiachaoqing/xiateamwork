@@ -1,6 +1,6 @@
 <?php
 /**
- * 豆包计划任务服务程序。
+ * 夏小石计划任务服务程序。
  * The crond for zentao.
  *
  * @copyright   Copyright 2009-2013 QingDao Nature Easy Soft Network Technology Co,LTD (www.cnezsoft.com)

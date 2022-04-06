@@ -19,15 +19,15 @@ $lang->install->officeDomain     = 'https://www.zentao.net';
 $lang->install->start            = '开始安装';
 $lang->install->keepInstalling   = '继续安装当前版本';
 $lang->install->seeLatestRelease = '看看最新的版本';
-$lang->install->welcome          = '欢迎使用豆包项目管理软件！';
-$lang->install->license          = '豆包项目管理软件使用 Z PUBLIC LICENSE(ZPL) 1.2 授权协议';
+$lang->install->welcome          = '欢迎使用夏小石项目管理软件！';
+$lang->install->license          = '夏小石项目管理软件使用 Z PUBLIC LICENSE(ZPL) 1.2 授权协议';
 $lang->install->desc             = <<<EOT
-豆包项目管理软件(ZenTaoPMS)是一款国产的，基于<a href='http://zpl.pub' target='_blank'>ZPL</a>协议，开源免费的项目管理软件，它集产品管理、项目管理、测试管理于一体，同时还包含了事务管理、组织管理等诸多功能，是中小型企业项目管理的首选。
+夏小石项目管理软件(ZenTaoPMS)是一款国产的，基于<a href='http://zpl.pub' target='_blank'>ZPL</a>协议，开源免费的项目管理软件，它集产品管理、项目管理、测试管理于一体，同时还包含了事务管理、组织管理等诸多功能，是中小型企业项目管理的首选。
 
-豆包项目管理软件使用PHP + MySQL开发，基于自主的PHP开发框架──ZenTaoPHP而成。第三方开发者或者企业可以非常方便的开发插件或者进行定制。
+夏小石项目管理软件使用PHP + MySQL开发，基于自主的PHP开发框架──ZenTaoPHP而成。第三方开发者或者企业可以非常方便的开发插件或者进行定制。
 EOT;
 $lang->install->links = <<<EOT
-豆包项目管理软件由<strong><a href='http://www.cnezsoft.com' target='_blank' class='text-danger'>青岛易软天创网络科技有限公司</a>开发</strong>。
+夏小石项目管理软件由<strong><a href='http://www.cnezsoft.com' target='_blank' class='text-danger'>青岛易软天创网络科技有限公司</a>开发</strong>。
 官方网站：<a href='https://www.zentao.net' target='_blank'>https://www.zentao.net</a>
 技术支持：<a href='https://www.zentao.net/ask/' target='_blank'>https://www.zentao.net/ask/</a>
 新浪微博：<a href='http://weibo.com/easysoft' target='_blank'>http://weibo.com/easysoft</a>
@@ -109,7 +109,7 @@ $lang->install->workingList['onlyTask']  = '任务管理工具';
 $lang->install->errorConnectDB      = '数据库连接失败 ';
 $lang->install->errorDBName         = '数据库名不能含有 “.” ';
 $lang->install->errorCreateDB       = '数据库创建失败';
-$lang->install->errorTableExists    = '数据表已经存在，您之前应该有安装过豆包，继续安装请返回前页并选择清空数据';
+$lang->install->errorTableExists    = '数据表已经存在，您之前应该有安装过夏小石，继续安装请返回前页并选择清空数据';
 $lang->install->errorCreateTable    = '创建表失败';
 $lang->install->errorImportDemoData = '导入demo数据失败';
 
@@ -162,11 +162,11 @@ $lang->install->cronList['moduleName=admin&methodName=deleteLog']     = '删除�
 $lang->install->cronList['moduleName=todo&methodName=createCycle']    = '生成周期性待办';
 
 $lang->install->success  = "安装成功";
-$lang->install->login    = '登录豆包管理系统';
-$lang->install->register = '豆包社区注册';
+$lang->install->login    = '登录夏小石管理系统';
+$lang->install->register = '夏小石社区注册';
 
 $lang->install->joinZentao = <<<EOT
-<p>您已经成功安装豆包管理系统%s，<strong class='text-danger'>请及时删除install.php</strong>。</p><p>友情提示：为了您及时获得豆包的最新动态，请在豆包社区(<a href='https://www.zentao.net' class='alert-link' target='_blank'>www.zentao.net</a>)进行登记。</p>
+<p>您已经成功安装夏小石管理系统%s，<strong class='text-danger'>请及时删除install.php</strong>。</p><p>友情提示：为了您及时获得夏小石的最新动态，请在夏小石社区(<a href='https://www.zentao.net' class='alert-link' target='_blank'>www.zentao.net</a>)进行登记。</p>
 EOT;
 
 $lang->install->product = array('chanzhi', 'ranzhi', 'xuanxuan');

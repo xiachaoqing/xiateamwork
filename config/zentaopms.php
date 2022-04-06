@@ -2,7 +2,7 @@
 /**
 * The config file of zentaophp.  Don't modify this file directly, copy the item to my.php and change it.
 *
-* @copyright   Copyright 豆包网
+* @copyright   Copyright 夏小石
 * @license     ZPL (http://zpl.pub/page/zplv12.html)
 * @author      Chunsheng Wang <chunsheng@cnezsoft.com>
 * @package     config
